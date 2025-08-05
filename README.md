@@ -1,1 +1,1 @@
-# TCC_Pesquisa_Operacional_Log-stica
+# TCC_Pesquisa_Operacional_Logística
